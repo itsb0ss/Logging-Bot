@@ -2,7 +2,7 @@
     "template": {
         "audit": {
             "category": "audit_log",
-            "channel_id": "",
+            "channel_id": "1191558853112893463",
             "disabled": true,
             "icon_url": null,
             "label": "audit",
